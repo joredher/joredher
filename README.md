@@ -33,4 +33,3 @@ Of course... *Keeping learning...*
 - **Docker & AWS (S3, CloudFront)**
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joredher&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
