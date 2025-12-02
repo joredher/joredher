@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**joredher/joredher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![cropped-20230320_101733-EDIT](https://github.com/user-attachments/assets/bc22bba4-dbb2-4d70-9f7d-3c24aa72f4a2)
 
-Here are some ideas to get you started:
+# 👨‍💻 Hey! I'am Jorge Hernandez  Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialise in building modern web applications using **Laravel**. In other words, I am a Laravel Developer (🇨🇴: Laravelero).
+
+My work spans **PWA & SPA development**, API integrations, cloud deployments, performance optimisation, and secure data handling.
+
+I’m passionate about **critical thinking, problem-solving, and clean architecture**, and I enjoy creating systems that are reliable, efficient, and delightful for users.
+
+Of course... *Keeping learning...*
+
+---
+
+## 🚀 Tech Stack
+
+### **Languages & Frameworks**
+- **JavaScript / TypeScript**
+- **PHP (Laravel, CodeIgniter)**
+- **Vue.js, jQuery**
+- **HTML5, CSS3, Tailwind**
+- **Node.js**
+- **A-Frame (Augmented Reality)**
+
+### **Databases**
+- **MySQL**
+- **PostgreSQL**
+- **MongoDB**
+- **SQLite**
+
+### **Tools & Methodologies**
+- **Agile SCRUM**
+- **PWA / SPA development**
+- **API integrations**
+- **Docker & AWS (S3, CloudFront)**
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=joredher&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
