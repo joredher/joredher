@@ -1,6 +1,3 @@
-
-![cropped-20230320_101733-EDIT](https://github.com/user-attachments/assets/bc22bba4-dbb2-4d70-9f7d-3c24aa72f4a2)
-
 # 👨‍💻 Hey! I'am Jorge Hernandez  Software Engineer
 
 I specialise in building modern web applications using **Laravel**. In other words, I am a Laravel Developer (🇨🇴: Laravelero).
